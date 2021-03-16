@@ -8,7 +8,7 @@
 *   Isbn(identificador do livro)
 *   Data que ele deve entrar no ar(de publicação)
 *   Um livro pertence a uma categoria
-*   Um livro é de um autor
+*   Um livro é de um, e apenas um, autor
 
 ### **Restrições**
 
